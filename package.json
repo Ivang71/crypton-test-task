@@ -1,0 +1,11 @@
+{
+  "name": "crypton-test-task",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Ivang <rewwer356@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "hardhat": "^2.8.3"
+  }
+}
